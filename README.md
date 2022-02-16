@@ -1,5 +1,5 @@
 
-#   implementação de Árvore AVL
+#   Implementação de Árvore AVL
 Projeto desenvolvido na matéria Estrutura de Dados Básicas II na curso de Tecnologia da Informação/UFRN, ministrada pela docente Silvia M. D. M. Maia.
 ## Autores
 > *Paulo V. F. Andrade*
